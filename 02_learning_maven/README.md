@@ -1,4 +1,4 @@
-# Lesson 01 Learning Maven
+# Lesson 02 Learning Maven
 
 You will have to use a build automation tool of some sort in this class. If you proceed in a career in software construction you will have to use several build automation tools in your career.
 
@@ -6,7 +6,7 @@ You have probably heard of Gradle, Ant, Maven, Buildr, and etc.  Since this cour
 
 Your assignment is to do the following:
 
-1. Create a branch as your did in lesson 00, but this time for lesson 01.
+1. Create a branch for this lesson.
 1. Get maven running on your machine
 1. Create a folder called:
     
@@ -31,13 +31,3 @@ Your assignment is to do the following:
     * a brief summary about what happens in each of the most common default maven lifecycle phases.
 
 1. Push your branch to github, create a pull request, review other peoples work, merge when ready. 
-
-## Tips
-
-Everything is easier if you are using linux some way or something with proper bash. Some ways you can get linux are:
-
-* Windows Subsystem for Linux (requires windows professional edditon)
-* Virtual Box (by far the laziest, cheapest, and easiest way to get the latest Ubuntu LTS running on your local)
-* Install linux on a machine you have (More power to you)
-* But I have a mac! (Your terminal will be fine)
-
