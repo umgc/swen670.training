@@ -11,6 +11,10 @@ At any company you work for you will be required to spend the first few days set
     * Install linux on a machine you have (More power to you)
     * But I have a mac! (Your terminal will be fine)
 
+2. You require two approvals to merge.
+3. You must review two other students PRs.
+4. No merge conflicts.
+
 ## Instructions 
 
 Once you have linux running on your machine somehow:

@@ -4,7 +4,16 @@ You will have to use a build automation tool of some sort in this class. If you 
 
 You have probably heard of Gradle, Ant, Maven, Buildr, and etc.  Since this course deals with Java, you will be using maven (later you might be using make, but for now just maven).
 
-Your assignment is to do the following:
+## Requirements:
+
+1. Create a project using maven
+2. Write what you learned about maven in a README.md. in your folder.
+2. You require two approvals to merge.
+3. You must review two other students PRs.
+4. No merge conflicts.
+
+
+## Instructions
 
 1. Create a branch for this lesson.
 1. Get maven running on your machine
